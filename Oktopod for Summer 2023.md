@@ -24,7 +24,7 @@ Launching a startup can be an exciting and rewarding experience, but it can also
 
 The team can work on building their startup by creating a project to sell. The team will be motivated to build apps, software, or any tech-related product or service. They will have the freedom to decide how to allocate the budget among the team members. The company will provide all the necessary tools, coaching, and reading material to enhance the work, team, or product.
 
-So, If they choose this option, the Oktopod team has to work for a US client while also developing their own startup. 
+### *So, If they choose this option, the Oktopod team has to work for a US client while also developing their own startup. 
 
 Mentorship:
 The Oktopod team can use mentorship from NADROIDS OPS, a company that works with a research institute named INSTAR Lab. Our coaches will help the team in building DROID Ops, and the team will teach the US client about DROID Ops.
