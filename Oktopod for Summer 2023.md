@@ -9,7 +9,7 @@ The Oktopod team is given a budget of 4 lakhs per month, which can be allocated 
 
 The team is also provided with mentorship from Northern Ark, technical transfer and research support from INSTAR Lab, and access to Oktopod startup tools, including DROID Ops, a universal business framework, and AI assistants. The team is encouraged to build AI products and services, and the company provides coaching and reading materials to help them do so.
 
-Overall, the Oktopod team is a group of motivated individuals who are given the resources and support they need to build and launch their own technology-related startup.
+Overall, the Oktopod team is a group of motivated individuals who work for our US client and are given the resources as well as support they need to build and launch their own technology-related startup.
 
 # Opportunities:
 The Oktopod team has two opportunities:
