@@ -1,7 +1,7 @@
 #  Oktopod for Summer 2023
 
 # Introduction:
-An Oktopod team is a group of individuals who work with a US client. The team can also be now part of a startup incubation program designed to help them build and launch their own technology-related products or services. The team is provided with resources, mentorship, and technical support to help them develop their skills, create a viable product, and prepare for launch.
+An Oktopod team is a group of individuals who work with a US client. The team can also be now part of a startup incubation program. The Oktopod startup incubation program is designed to help Oktopod team build and launch their own technology-related products or services. The team is provided with resources, mentorship, and technical support to help them develop their skills, create a viable product, and prepare for launch.
 
 The Oktopod team has the option to work solely for a US client or to work for a US client while also developing their own startup. If they choose the latter, they are responsible for creating a project to sell and must be motivated to build apps, software, or any other technology-related product or service. The team members must be willing to wear multiple hats and learn new skill sets to accomplish their goals.
 
