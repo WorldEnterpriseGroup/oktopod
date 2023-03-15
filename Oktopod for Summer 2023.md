@@ -22,6 +22,16 @@ The Oktopod team is given a budget of 4 lakhs per month, which can be allocated 
 # Work for a US Client & Build their Startup:
 Launching a startup can be an exciting and rewarding experience, but it can also be daunting and challenging. To help Oktopod teams succeed, we have designed a startup incubation program that provides resources, mentorship, and technical support to help them create and launch their own technology-related products or services
 
+The Oktopod team will have the following
+   - DROID Ops
+       - Universal Business Framework
+- AI Assistants
+- Oktopod Startup Tools
+- 4 Lac Budget for Startups
+- Up to 50% Equity in the Product
+- Mentorship from Northern Ark
+- Technical Transfer & Research by INSTAR Lab 
+
 The team can work on building their startup by creating a project to sell. The team will be motivated to build apps, software, or any tech-related product or service. They will have the freedom to decide how to allocate the budget among the team members. The company will provide all the necessary tools, coaching, and reading material to enhance the work, team, or product.
 
 ### *So, If they choose this option, the Oktopod team has to work for a US client while also developing their own startup. 
