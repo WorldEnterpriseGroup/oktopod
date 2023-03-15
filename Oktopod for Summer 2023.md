@@ -15,7 +15,7 @@ Overall, the Oktopod team is a group of motivated individuals who work for our U
 The Oktopod team has two opportunities:
 
 # 1. Work for a US Client:
-The team can work for a US client and gain experience for building tech-related products or services. The team will work under the guidance of our experienced coaches, who will provide all the necessary tools and coaching to complete the project successfully. To kickstart the program, it is essential for the team to work with a US client. We understand that finding a US client can be a challenge, which is why we will assist the team in finding one.
+The team will be working for a US client and gaining experience for building tech-related products or services. The team will work under the guidance of our experienced coaches, who will provide all the necessary tools and coaching to complete the project successfully. To kickstart the program, it is essential for the team to work with a US client. We understand that finding a US client can be a challenge, which is why we will assist the team in finding one.
 
 # Work for a US Client & Build their Startup:
 Launching a startup can be an exciting and rewarding experience, but it can also be daunting and challenging. To help Oktopod teams succeed, we have designed a startup incubation program that provides resources, mentorship, and technical support to help them create and launch their own technology-related products or services
