@@ -16,6 +16,7 @@ The Oktopod team has two opportunities:
 
 # 1. Work for a US Client:
 The team will be working for a US client and gaining experience for building tech-related products or services. The team will work under the guidance of our experienced coaches, who will provide all the necessary tools and coaching to complete the project successfully. To kickstart the program, it is essential for the team to work with a US client. We understand that finding a US client can be a challenge, which is why we will assist the team in finding one.
+
 The Oktopod team is given a budget of 4 lakhs per month, which can be allocated as they see fit. The team lead and other team members can decide how much each person will receive each month. Therefore, the Oktopod team will have freedom to allocate their budget. 
 
 # Work for a US Client & Build their Startup:
