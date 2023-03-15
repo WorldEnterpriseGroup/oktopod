@@ -41,3 +41,4 @@ The Oktopod team can use mentorship from NADROIDS OPS, a company that works with
 
 Conclusion:
 Oktopod offers an excellent opportunity for aspiring entrepreneurs to build their startup in a supportive and nurturing environment. We welcome everyone who wants to build AI and change the world. All you need is curiosity, and we will help you with the rest.
+
