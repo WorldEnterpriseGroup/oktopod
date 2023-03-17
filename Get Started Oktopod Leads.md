@@ -15,7 +15,7 @@ The Focus Pass is a program offered by Oktopod to help individuals and teams get
 Sign up for an account to get a membership for the Focus pass.
 
 ## Training in Timmsi: 
-Timmsi is a tool used by Oktopod to help users manage their projects and collaborate with team members. Training in Timmsi will help users become proficient in using the tool and take full advantage of its features.
+Timmsi Land is offering training to Oktopod teams to help them prepare for clients and their own startup. They will provide all the necessary training, including training related to new technologies and terms, to ensure that the team is well-equipped to succeed..
 
 ## Attaching to a client: 
 Oktopod can help users find clients to work with by matching them with businesses that need their services. By attaching to a client, users can gain experience and build their reputation while working on real-world projects.
