@@ -27,7 +27,7 @@ Once attached to a client, Oktopod can start working on projects and delivering 
 For Oktopod who have a start-up idea, they can work on their own business while also working for a client. This allows them to generate income and build their start-up simultaneously.
 
 ## Detaching from the client: 
-As Oktopod start-ups grow and become more established, they may choose to detach from their clients and focus solely on their business. This can allow them to scale their business and pursue their goals more fully.
+As Oktopod start-ups grow and become more established, they may choose to detach from their clients and focus solely on their business. This can allow them to scale their business and pursue their goals more fully. This can happen after 2 to 3 years of the growth of the start-up.
 
 ## 50%-50% equity ratio: 
-For users who work on their start-up while also working for a client, Oktopod may offer a 50%-50% equity ratio. This means that users can retain ownership and control of their start-up while also earning income from their work with Oktopod.
+Oktopod who work on their start-up while also working for a client, will have 50%-50% equity ratio.
