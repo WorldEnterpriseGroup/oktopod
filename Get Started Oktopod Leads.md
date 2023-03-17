@@ -5,8 +5,14 @@ An Oktopod team is a group of individuals who collaborate with a US-based client
 
 The team has two alternatives to choose from: they can work exclusively for a US-based client or work for the same client while simultaneously developing their own startup. If they choose the latter, they are accountable for creating a project that they can sell and must be motivated to design apps, software, or other technology-related products or services. The team members must be adaptable and willing to learn new skill sets to achieve their objectives.
 
+## Research Oktopod: 
+Take the time to learn about Oktopod's features, benefits, and how it can help you and your team collaborate and manage projects more efficiently.
+
 ## Focus Pass: 
 The Focus Pass is a program offered by Oktopod to help individuals and teams get started with the platform. The Focus Pass provides access to Oktopod's features and support to help users get up and running quickly.
+
+## Sign up for an account on Focus Pass: 
+Sign up for an account to get a membership for the Focus pass.
 
 ## Training in Timmsi: 
 Timmsi is a tool used by Oktopod to help users manage their projects and collaborate with team members. Training in Timmsi will help users become proficient in using the tool and take full advantage of its features.
