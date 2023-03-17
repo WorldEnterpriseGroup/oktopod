@@ -18,7 +18,7 @@ Sign up for an account to get a membership for the Focus pass.
 Timmsi Land is offering training to Oktopod teams to help them prepare for clients and their own startup. They will provide all the necessary training, including training related to new technologies and terms, to ensure that the team is well-equipped to succeed..
 
 ## Dan Hup: 
-Oktopod can help users find clients to work with by matching them with businesses that need their services. By attaching to a client, users can gain experience and build their reputation while working on real-world projects.
+Otopod team will be then send to Danhup from Timmsi Land. DanHup will help users find clients to work with by matching them with businesses that need their services. By attaching to a client, Oktopod can gain experience and build their reputation while working on real-world projects.
 
 ## Working for a client: 
 Once attached to a client, users can start working on projects and delivering results. This can help them build their skills and earn income while gaining valuable experience.
