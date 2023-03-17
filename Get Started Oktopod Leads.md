@@ -1,5 +1,10 @@
 # Get started 
 
+## Intoduction 
+An Oktopod team is a group of individuals who collaborate with a US-based client, and now they have the option to join a startup incubation program as well. This program is designed to assist Oktopod team members in developing and launching their own technology-related products or services. The team receives support, mentorship, and technical resources to enhance their skills, create a viable product, and prepare for launch.
+
+The team has two alternatives to choose from: they can work exclusively for a US-based client or work for the same client while simultaneously developing their own startup. If they choose the latter, they are accountable for creating a project that they can sell and must be motivated to design apps, software, or other technology-related products or services. The team members must be adaptable and willing to learn new skill sets to achieve their objectives.
+
 ## Focus Pass: 
 The Focus Pass is a program offered by Oktopod to help individuals and teams get started with the platform. The Focus Pass provides access to Oktopod's features and support to help users get up and running quickly.
 
