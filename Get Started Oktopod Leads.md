@@ -21,13 +21,13 @@ Timmsi Land is offering training to Oktopod teams to help them prepare for clien
 Otopod team will be then send to Danhup from Timmsi Land. DanHup will help users find clients to work with by matching them with businesses that need their services. By attaching to a client, Oktopod can gain experience and build their reputation while working on real-world projects.
 
 ## Working for a client: 
-Once attached to a client, users can start working on projects and delivering results. This can help them build their skills and earn income while gaining valuable experience.
+Once attached to a client, Oktopod can start working on projects and delivering results for the clients. This can help them build their skills and earn income while gaining valuable experience.
 
 ## Working for a client and working on your start-up: 
-For users who have a start-up idea, they can work on their own business while also working for a client. This allows them to generate income and build their start-up simultaneously.
+For Oktopod who have a start-up idea, they can work on their own business while also working for a client. This allows them to generate income and build their start-up simultaneously.
 
 ## Detaching from the client: 
-As users' start-ups grow and become more established, they may choose to detach from their clients and focus solely on their business. This can allow them to scale their business and pursue their goals more fully.
+As Oktopod start-ups grow and become more established, they may choose to detach from their clients and focus solely on their business. This can allow them to scale their business and pursue their goals more fully.
 
 ## 50%-50% equity ratio: 
 For users who work on their start-up while also working for a client, Oktopod may offer a 50%-50% equity ratio. This means that users can retain ownership and control of their start-up while also earning income from their work with Oktopod.
